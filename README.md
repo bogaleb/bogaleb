@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Biniyam Bogale I'm currently searching for a full time job as a data analyst.
 - 👀 I’m interested in Data analtics and Data science
 - 📐 MSc Degree in Environmental economics from University of copenhagen and BSc degree in Economics
 - 🔍 I love learning new skills
